@@ -12,8 +12,8 @@ func main() {
 	fmt.Println("Test Multiport Serial Controller")
 	gpsport := ""
 	rcport := ""
-	senport:=""
-	gtg:=3
+	senport:= ""
+	gtg:= 3
 	ports, err := serial.GetPortsList()
 	if err != nil {
 		log.Fatal(err)
