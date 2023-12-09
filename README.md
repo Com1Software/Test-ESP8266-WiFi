@@ -1,6 +1,8 @@
 # Test-ESP8266-WiFi
 Test ESP8266 WiFi
 
+https://learn.sparkfun.com/tutorials/setting-up-a-raspberry-pi-3-as-an-access-point/all
+
 https://woodsgood.ca/projects/wp-content/uploads/ESP8266ATCommandsSet.pdf
 
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
